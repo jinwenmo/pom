@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pom.test.classfile.general.TestOperators" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-12-22T01:33:42" hostname="icaro" time="0.012">
+  <properties/>
+  <testcase name="testBelongTo" classname="pom.test.classfile.general.TestOperators" time="0.0"/>
+  <testcase name="testUnion" classname="pom.test.classfile.general.TestOperators" time="0.005"/>
+  <testcase name="testSize" classname="pom.test.classfile.general.TestOperators" time="0.001"/>
+  <testcase name="testDifference" classname="pom.test.classfile.general.TestOperators" time="0.001"/>
+  <testcase name="testIncludeOrEqual" classname="pom.test.classfile.general.TestOperators" time="0.001"/>
+  <testcase name="testIntersection" classname="pom.test.classfile.general.TestOperators" time="0.0"/>
+  <testcase name="testEquals" classname="pom.test.classfile.general.TestOperators" time="0.001"/>
+  <testcase name="testInclude" classname="pom.test.classfile.general.TestOperators" time="0.0"/>
+  <testcase name="testDifferent" classname="pom.test.classfile.general.TestOperators" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
